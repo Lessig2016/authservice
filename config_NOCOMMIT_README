@@ -1,0 +1,27 @@
+# You'll need to copy this file into place for the system to work.
+# run:
+#  cp config_NOCOMMIT_README config_NOCOMMIT.py
+# then make appropriate edits
+
+ROOT_DOMAIN = "mayday.us"
+
+AUTH_DOMAIN = "auth.%s" % ROOT_DOMAIN
+
+DEFAULT_REDIRECT = "https://%s" % ROOT_DOMAIN
+
+PROVIDER_CONFIG = {
+  # oauth2
+#  "google":       ("<appid>", "<appsecret>"),
+#  "linkedin2":    ("<key>", "<secret>"),
+#  "facebook":     ("<appid>", "<appsecret>"),
+#  "windows_live": ("<clientid>", "<clientsecret>"),
+#  "foursquare":   ("<clientid>", "<clientsecret>"),
+
+  # oauth1
+#  "twitter":      ("<consumerkey>", "<consumersecret>"),
+#  "linkedin":     ("<key>", "<secret>"),
+}
+
+SECRET_KEY = "<secret key>"
+
+OPENID_ENABLED = False
