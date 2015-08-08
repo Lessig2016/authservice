@@ -36,7 +36,7 @@ def enable_cors(handler):
     origin = handler.request.headers['Origin']
     _, netloc, _, _, _, _ = urlparse.urlparse(origin)
     safe = False
-    for root in set((ROOT_DOMAIN, "mayone.us", "mayday.us")):
+    for root in set((ROOT_DOMAIN, "lessigforpresident.com", "lessigforpresident.com")):
       if netloc == root or netloc.endswith("." + root):
         safe = True
         break
