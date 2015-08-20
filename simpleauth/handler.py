@@ -79,7 +79,7 @@ class SimpleAuthHandler(object):
       'https://login.live.com/oauth20_authorize.srf?{0}',
       'https://login.live.com/oauth20_token.srf'),
     'facebook'    : ('oauth2',
-      'https://www.facebook.com/dialog/oauth?{0}',
+      'https://www.facebook.com/dialog/oauth?display=popup&{0}',
       'https://graph.facebook.com/oauth/access_token'),
     'linkedin2'   : ('oauth2',
       'https://www.linkedin.com/uas/oauth2/authorization?{0}',
