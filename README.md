@@ -34,3 +34,5 @@ Finally, add the container's IP and `auth.mayday.us` to your `/etc/hosts` file.
 
 Another sample app that uses `auth.mayday.us` is checked in under the
 `example/` subdir. Setting it up to use HTTPS is similar.
+
+When testing, you can remove app auth here: https://www.facebook.com/settings?tab=applications
