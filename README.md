@@ -41,7 +41,7 @@ When testing, you can remove app auth here: https://www.facebook.com/settings?ta
 
 The Lessig Equal Citizens Exploratory Committee is committed to fostering an open and inclusive community where engaged, dedicated volunteers can build the strategy and tools necessary to fix our country's democracy. All members of the community are expected to behave with civility, speak honestly and treat one another respectfully.
 
-This project adheres to the [Open Code of Conduct][http://todogroup.org/opencodeofconduct/#Lessig2016/conduct@lessigforpresident.com]. 
+This project adheres to the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/#Lessig2016/conduct@lessigforpresident.com). 
 By participating, you are expected to honor this code.
 
 This reference as well as the included copy of the [Code of Conduct](https://github.com/Lessig2016/authservice/blob/master/CONDUCT.md)
