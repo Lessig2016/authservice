@@ -1,8 +1,12 @@
 # authservice
 
-auth.mayday.us
-
 Please see https://github.com/MayOneUS/wiki/wiki/My-SuperPAC-design-doc
+
+## tl;dr
+
+* **Applicable skills** TBD
+* **Slack** [#gh-authservice](https://teamlessigtech.slack.com/messages/gh-authservice/)
+* **Project lead** TBD
 
 ## Getting started
 
